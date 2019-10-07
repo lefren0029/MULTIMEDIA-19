@@ -2,41 +2,33 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Project: Travel webpage</title>
+        <title>Project: Blog</title>
         <style>
-        
-        body {
-            background-color: rgb(130, 179, 66);
+        #no1 {
+            background-color: yellow;
         }
-            h1 {
-            color: rgb(184, 120, 24);
-        }
-        h2  {
-            color: rgb(54, 61, 199);
-        }
-        h3  {
-            color: rgb(150, 28, 146);
-        }
-        #rabbits-info-heading {
-            background-color: rgb(245, 245, 245);
-        }
-        
-        
+            
+            
         </style>
     </head>
     <body>
-    
-        <h1 id="rabbits-info-heading">Machu Picchu, Perú</h1>
-        <p>Machu Picchu es uno de los iconos más reconocibles en el mundo, construido por los miembros de los pueblos ancestrales ubicado en la cima de la montaña un lugar magico para vicitar. </p>
-        <img src="https://www.kasandbox.org/programming-images/landscapes/mountains-in-hawaii.png" width="410">
         
-        <h2 id="rabbits-info-heading">Stonehenge, Reino Unido</h2>
-        <p>El conjunto de monumentos históricos de piedra data de 2000 a 3000 aC. El punto de referencia icónico es uno de los símbolos más reconocibles del Reino Unido. Desde que Stonehenge se agregó a la lista del patrimonio mundial de la UNESCO en 1982 ven y conócelo. </p>
-        <img src="https://www.kasandbox.org/programming-images/landscapes/fields-of-grain.png" width="410">
+        <h1 id="no1">NoticiasBlog</h1>
+
+        <h3>Contenido [Click]</h3>
+        <ul>
+            <li><a href="https://www.reuters.com/article/us-ukraine-crisis-rally/thousands-rally-in-kiev-to-protest-autonomy-plan-for-eastern-ukraine-idUSKCN1WL0E8"> Protesta en Ucrania</a></li>
+            <li><a href="https://www.reuters.com/article/us-mexico-climatechange/climate-change-may-slash-some-fish-catch-rates-in-mexico-by-30-over-30-years-study-idUSKBN1WH261">Cambio climatico en Mexico</a></li>
+        </ul>
+
         
-        <h3 id="rabbits-info-heading">Teotihuacán, San Juan Teotihuacán, México</h3>
-        <p>La también llamada Ciudad de los Dioses conserva los vestigios de una de las civilizaciones más importantes de Mesoamérica. Un paseo por la zona arqueológica permite asombrarse por las hermosas construcciones y por el misterio que guardan los muros de la Pirámide del Sol, el templo de Quetzalpápalotl, la Calzada de los Muertos y las edificaciones que los rodean.</p>
-        <img src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png" width="410">
+        <h2>Miles de personas se manifiestan en Kiev para protestar por el plan de autonomía para el este de Ucrania</h2>
+        <p>KIEV (Reuters) - Miles de personas se congregaron el domingo en la plaza principal de Kiev para protestar contra el acuerdo del presidente Volodymyr Zelenskiy con Moscú para otorgar autonomía al este rebelde pro-ruso de Ucrania como parte de los esfuerzos para poner fin a un conflicto de cinco años allí. 
+        
+        <h2>El cambio climático puede reducir las tasas de captura de peces en México en un 30% en 30 años: estudio</h2>
+        
+        <p>CIUDAD DE MÉXICO (Reuters) - Si las pesquerías mexicanas no se adaptan al cambio climático, la cantidad de peces capturados caerá, y los números de captura para el abulón del Pacífico, el calamar gigante y el mahi-mahi posiblemente se desplomen más del 30% en los próximos 30 años. en México, según un estudio publicado el miércoles.</p>
+        
         
     </body>
 </html>
